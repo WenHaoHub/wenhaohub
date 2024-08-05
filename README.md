@@ -7,9 +7,9 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭我目前正在研究的项目 [threejs](https://www.baidu.com/link?url=AAsUrT4moCiJZGHuieDjjnw8c4nhRBkJ4tWtTMYQ9gPnIMqIWn9q18uKq-eel3x8weBGgvcALGBNl1Q1EXmHmK&wd=&eqid=d8b35f2f00641a990000000365f30678)
+- 🔭我目前正在研究的项目 web3
 
-- 🌱 正在学习 **nextjs**
+- 🌱 正在学习 [Rust](https://rust.p2hp.com/index.html)
 
 - 👨‍💻 我的项目 [保密协议](公司原因无法上传git)
 
