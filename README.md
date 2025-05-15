@@ -20,8 +20,8 @@
 - 📄 关于我 [出身寒舍](出身寒舍)
 
 - ⚡有趣的事 **i think i am funny**
-- 🌍 
-
+-  <img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/x.svg" />  ： [twitter](https://x.com/luwnho15)
+-  <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/telegram.svg" />  ： @wh5496
   <br/>
   
 <h3 align="left">Languages and Tools:</h3>
